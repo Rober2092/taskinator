@@ -15,7 +15,7 @@ var tasks = [
     status: ""
   },
 ];
-//if data display something else or nothing load data function 
+
 
 var taskFormHandler = function(event) {
   event.preventDefault();
